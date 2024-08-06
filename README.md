@@ -10,4 +10,4 @@ A modern and responsive cafe web page built using HTML5 and CSS3. It is a page t
 - CSS3: Includes animations, transition effects, and media queries.
 
 # 📸Preview
-![](./Cafe-Clone.gif)# Q-Cafe
+![](./Cafe-Clone.gif)
